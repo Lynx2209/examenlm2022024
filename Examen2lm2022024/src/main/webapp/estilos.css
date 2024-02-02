@@ -1,0 +1,42 @@
+@charset "UFT-8";
+h2{
+	margin-left: 30%;
+	margin-top: 3rem;
+	color:lightblue;
+}
+img {
+	border-radius: 100%;
+}	
+div{
+	background-color: coral;
+}
+.marron{
+	text-align: center;
+	background-color: goldenrod;
+}
+nav{
+	border: solid 1px;
+	margin-left: 40%;
+	width: 20%;
+}
+select{
+	margin-left: 30%;
+}
+.hr {
+	background-color: mediumblue;
+	height: 5px;
+}
+h3{
+	text-align: center;
+}
+.izquierdo{
+	width: 35%;
+	float: left;
+}
+centro{
+	text-align: center;
+}
+.derecha{
+	width: 35%;
+	float: right;
+}
